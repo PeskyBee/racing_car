@@ -11,7 +11,12 @@ For this project we bought an rc car. We had multiple options to solve the probl
   
 ### Next steps
 
-This is our car:
+This is our car. We chose to buy a mid-zise car with big enough weels, so it could handle hardware weight in the future:
 
-![file_000](https://cloud.githubusercontent.com/assets/5836188/24587337/69e984c4-17bd-11e7-8d42-aa7a150eb7c0.jpeg)
+<img src="https://cloud.githubusercontent.com/assets/5836188/24587337/69e984c4-17bd-11e7-8d42-aa7a150eb7c0.jpeg" width="300">
+
+Radio transmitter board. You can see that turns and moves forward/backward are handled by buttons on the board. So we needed to solder pins to button and power a board from a PC/controller:
+
+<img src="https://cloud.githubusercontent.com/assets/5836188/24587319/f8fa9dd4-17bc-11e7-893b-158c1033a5cf.jpeg" width="300">
+
 
