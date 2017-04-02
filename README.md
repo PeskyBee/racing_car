@@ -3,7 +3,7 @@ Hacking RC car to apply self-driving concept for car racing
 
 ### RC Car
 
-For this project we bought an rc car. We had multiple options to solve the problem of controlling the wehical from PC (Mac). We could:
+For this project we bought an rc car. We had multiple options to solve the problem of controlling the vehicle from PC (Mac). We could:
   
   * Follow multiple [tutorials](http://www.instructables.com/id/Autonomous-Control-of-RC-Car-Using-Arduino/) to create RC car controlled by Arduino. This would require to solve a problem of how to transmit the signal from the PC to the car (the first problem remains unsloved). We'd had to use either USB or wi-fi modules.
   * Make a radio transmitter on PC. Most of the guides explain how to make a radio transmitter (but only for FM frequency) or using oscillator to find a frequency of the car and basically using brute force checking each and every value until car moves.
@@ -19,7 +19,7 @@ For this project we bought an rc car. We had multiple options to solve the probl
 
 **How to control car digitally**
 
-Each pin from every button on the transmitter board must be connected to a ground in order to close a circuit so car moves or turns. We have 4 pins and they must be controlled from 4 different grounds (so we can control all of them independently). Thus, we decided to get an Arduino controller to control 4 different pins. Here is what we got:
+Each pin from every button on the transmitter board must be connected to a ground in order to close a circuit so car moves or turns. We have 4 pins and they must be controlled from 4 different channels (so we can control all of them independently). Thus, we decided to get an Arduino controller to control 4 different pins. Here is what we got:
 
 <img src="https://cloud.githubusercontent.com/assets/5836188/24587295/6a7bf350-17bc-11e7-81be-9b1ce2df45f5.jpeg" width="300">
 
