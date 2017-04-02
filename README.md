@@ -13,4 +13,5 @@ For this project we bought an rc car. We had multiple options to solve the probl
 
 This is our car:
 
-![fff](https://duckduckgo.com/?q=include+a+local+image+into+readme+md&atb=v49-2_s&ia=images&iax=1&iai=https%3A%2F%2Fasadbukhariblog.files.wordpress.com%2F2016%2F06%2Fgit01_20160625122210_ejbworkspace-git-mnt-drives-d-java-ejbwildfly_training-git-ocejbcd-1z0-895-readme-md-eclipse1.png)
+![file_000](https://cloud.githubusercontent.com/assets/5836188/24587337/69e984c4-17bd-11e7-8d42-aa7a150eb7c0.jpeg)
+
