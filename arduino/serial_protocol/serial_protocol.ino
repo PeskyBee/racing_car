@@ -28,7 +28,8 @@ void setup() {
 
 void loop(){
     if((protocol_num = Serial.read()) == -1) return;
-  
+
+    // sets HIGH for no motion, and LOW to activate motion as we use ground pins to shorten the circuit
     digitalWrite(pin_forward, (protocol_num & forward_mask) ? LOW : HIGH);
     digitalWrite(pin_reverse, (protocol_num & reverse_mask) ? LOW : HIGH);
     digitalWrite(pin_left,    (protocol_num & left_mask) ? LOW : HIGH);
